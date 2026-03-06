@@ -61,8 +61,8 @@ Abra [http://localhost:3000](https://www.google.com/search?q=http://localhost:30
 ```text
 /public         # Imagens das marcas (Farm, Fenzzo, Dimy, etc.) e Logo
 /src
-  /components   # Componente LinkTree.tsx
-  /styles       # LinkTree.module.css (Estilos customizados)
+  /components   # Componente LinkTree.tsx # Componente Linktree.module.css
+  /styles       # Globals styles (Estilos customizados)
   /pages        # Rotas da aplicação (Next.js Pages Router)
 
 ```
